@@ -2,7 +2,7 @@
 <h3 align="center">The greatest school from Brazil 🇧🇷</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=F7F68A&center=true&vCenter=true&width=435&lines=EEEFM+%22Mestre+%C3%81lvaro%22;THE+BEST+SCHOOL!;THE+MOST+COOLER;BRAZILIAN+SOUL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=6CF7E8&center=true&vCenter=true&width=435&lines=EEEFM+%22Mestre+%C3%81lvaro%22;THE+BEST+SCHOOL!;THE+MOST+COOLER;BRAZILIAN+SOUL" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKqATE6xWkdcf0FAmC4w2yUecnp0l6NRN3TF8Nmzla8URx7tjswKkUmY&s=10" />
