@@ -4,7 +4,7 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=F7F68A&width=435&lines=EEEFM+%22Mestre+%C3%81lvaro%22;THE+BEST+SCHOOL!;THE+MOST+COOLER;BRAZILIAN+SOUL" alt="Typing SVG" /></a>
 
-<p align="center">
+<p align="right">
   <img src="https://avatars.githubusercontent.com/u/235589685?v=4" width="230" style="border-radius:20px; border: 3px solid #00ffaa;" />
 </p>
 
