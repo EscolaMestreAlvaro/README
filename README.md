@@ -1,7 +1,7 @@
 <h1 align="center">Mestre Álvaro's School</h1>
 <h3 align="center">The greatest school from Brazil 🇧🇷</h3>
 
-<p align="right">
+<div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=F7F68A&width=435&lines=EEEFM+%22Mestre+%C3%81lvaro%22;THE+BEST+SCHOOL!;THE+MOST+COOLER;BRAZILIAN+SOUL" alt="Typing SVG" /></a>
 
 <p align="center">
